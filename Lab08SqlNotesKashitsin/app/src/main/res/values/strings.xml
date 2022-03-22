@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab08-SqlNotes Kashitsin</string>
+    <string name="item_new">Добавить</string>
+    <string name="item_save">Сохранить</string>
+    <string name="item_delete">Удалить</string>
+    <string name="author">Кашицын,393</string>
+</resources>
